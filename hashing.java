@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 public class hashing{
     public static void main(String[] args){
         int[] arr = {1,2,2,2,3,1,2,3,3,3,4};
